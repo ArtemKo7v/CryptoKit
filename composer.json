@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.1",
-        "artemko7v/php-op_return": "dev-master",
+        "coinspark/php-op_return": "dev-master",
         "amilabs/JSON-RPC": "dev-develop",
         "moontoast/math": "*"
     },
